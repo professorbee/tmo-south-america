@@ -14,3 +14,4 @@ path = "github.com/google/docsy/dependencies"
 disable = false
 [params]
 copyright = "True Mission Outreach"
+navbar_logo = false
