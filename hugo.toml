@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'True Mission Outreach South America'
+navbar_logo = false
 [module]
 proxy = "direct"
 [module.hugoVersion]
